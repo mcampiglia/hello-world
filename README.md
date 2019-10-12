@@ -11,3 +11,11 @@ function fancyAlert(arg) {
   }
 }
 ```
+
+## ToDo List
+Y ahora una lista con las necesidades a cubrir en este proyecto
+ [ ] Conseguir un sponsor
+ [ ] Buscar un canal de despliegue
+ [ ] Identificar servidores para soporte
+ 
+Gracias por el apoyo!
