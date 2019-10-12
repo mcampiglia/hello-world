@@ -14,12 +14,11 @@ function fancyAlert(arg) {
 
 ## ToDo List
 Y ahora una lista con las necesidades a cubrir en este proyecto
- [ ] Conseguir un sponsor
- [ ] Buscar un canal de despliegue
- [ ] Identificar servidores para soporte
- 
- 
- - [x] Finish my changes
+
+- [ ] Conseguir un sponsor
+- [ ] Buscar un canal de despliegue
+- [ ] Identificar servidores para soporte
+- [x] Finish my changes
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
  
